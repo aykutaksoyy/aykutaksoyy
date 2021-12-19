@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aykut,
 - 👀 I’m interested in web programming, movies, books and crypto currencies.
 - 🌱 I’m currently learning web programming with The Odin Project.
-- 💞️ I’m looking to collaborate on develoing better websites.
+- 💞️ I’m looking to collaborate on developing better websites.
 - 📫 How to reach me via mail.
 
 <!---
